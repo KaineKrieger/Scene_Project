@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 492}
   m_MaxSize: {x: 18097, y: 14042}
   vertical: 0
-  controlID: 88
+  controlID: 98
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 94
+  controlID: 99
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 95
+  controlID: 100
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,23 +317,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Prefabs/Flowers/Flower2
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Prefabs/Flowers/Flower2
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\horna733\Documents\Unity Projects-Adam\Scene Building
     Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 50.99994}
-    m_SelectedIDs: 92490000
-    m_LastClickedID: 18834
-    m_ExpandedIDs: 00000000804900008249000084490000884900009249000094490000e649000000ca9a3b
+    scrollPos: {x: 0, y: 290.99994}
+    m_SelectedIDs: 5c4a0000
+    m_LastClickedID: 19036
+    m_ExpandedIDs: 00000000f2490000f4490000f6490000f8490000fa490000fc490000fe490000244a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000080490000824900008449000086490000884900008a4900008c490000
+    m_ExpandedIDs: 00000000f2490000f4490000f6490000f8490000fa490000fc490000fe490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -388,7 +388,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -489,8 +489,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2efbffff
-      m_LastClickedID: -1234
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 38fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -633,12 +633,12 @@ MonoBehaviour:
       layout: 4
     - dockPosition: 1
       containerId: overlay-container--right
-      floating: 0
+      floating: 1
       collapsed: 0
-      displayed: 1
-      snapOffset: {x: 0, y: 0}
+      displayed: 0
+      snapOffset: {x: -315.79987, y: -188.59998}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
+      snapCorner: 3
       id: Scene View/Camera
       index: 1
       layout: 4
@@ -773,9 +773,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 14.86849, y: 4.8447747, z: -1.3909289}
+    m_Target: {x: 13.986219, y: 2.2571552, z: -1.9947171}
     speed: 2
-    m_Value: {x: 14.86849, y: 4.8447747, z: -1.3909289}
+    m_Value: {x: 13.986219, y: 2.2571552, z: -1.9947171}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -822,13 +822,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12947856, y: -0.67090833, z: 0.120648436, w: 0.7201418}
+    m_Target: {x: 0.04987109, y: -0.6983968, z: 0.04891385, w: 0.7123278}
     speed: 2
-    m_Value: {x: 0.12983713, y: -0.6687305, z: 0.12025688, w: 0.7221358}
+    m_Value: {x: 0.048801407, y: -0.6984524, z: 0.04786499, w: 0.71238446}
   m_Size:
-    m_Target: 0.001970278
+    m_Target: 0.002578067
     speed: 2
-    m_Value: 0.0020702782
+    m_Value: 0.0026995465
   m_Ortho:
     m_Target: 0
     speed: 2
